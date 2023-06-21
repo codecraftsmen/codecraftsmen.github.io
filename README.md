@@ -1,5 +1,4 @@
-# codecraftsmen.github.io
-Code Craftsmen Web Site
+# Code Craftsmen
 
 * [Code Crafting Tools](https://tools.codecraftsmen.org)
 * [Code Crafting Academy](https://academy.codecraftsmen.org)
