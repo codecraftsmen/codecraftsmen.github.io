@@ -1,0 +1,4 @@
+#!/bin/sh
+
+make singlehtml
+cp -r ./_build/singlehtml/* ../
